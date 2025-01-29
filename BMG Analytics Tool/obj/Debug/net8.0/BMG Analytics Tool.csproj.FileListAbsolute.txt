@@ -1,0 +1,14 @@
+C:\Users\saahiti\source\repos\BMG Analytics Tool\BMG Analytics Tool\bin\Debug\net8.0\BMG Analytics Tool.exe
+C:\Users\saahiti\source\repos\BMG Analytics Tool\BMG Analytics Tool\bin\Debug\net8.0\BMG Analytics Tool.deps.json
+C:\Users\saahiti\source\repos\BMG Analytics Tool\BMG Analytics Tool\bin\Debug\net8.0\BMG Analytics Tool.runtimeconfig.json
+C:\Users\saahiti\source\repos\BMG Analytics Tool\BMG Analytics Tool\bin\Debug\net8.0\BMG Analytics Tool.dll
+C:\Users\saahiti\source\repos\BMG Analytics Tool\BMG Analytics Tool\bin\Debug\net8.0\BMG Analytics Tool.pdb
+C:\Users\saahiti\source\repos\BMG Analytics Tool\BMG Analytics Tool\obj\Debug\net8.0\BMG Analytics Tool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saahiti\source\repos\BMG Analytics Tool\BMG Analytics Tool\obj\Debug\net8.0\BMG Analytics Tool.AssemblyInfoInputs.cache
+C:\Users\saahiti\source\repos\BMG Analytics Tool\BMG Analytics Tool\obj\Debug\net8.0\BMG Analytics Tool.AssemblyInfo.cs
+C:\Users\saahiti\source\repos\BMG Analytics Tool\BMG Analytics Tool\obj\Debug\net8.0\BMG Analytics Tool.csproj.CoreCompileInputs.cache
+C:\Users\saahiti\source\repos\BMG Analytics Tool\BMG Analytics Tool\obj\Debug\net8.0\BMG Analytics Tool.dll
+C:\Users\saahiti\source\repos\BMG Analytics Tool\BMG Analytics Tool\obj\Debug\net8.0\refint\BMG Analytics Tool.dll
+C:\Users\saahiti\source\repos\BMG Analytics Tool\BMG Analytics Tool\obj\Debug\net8.0\BMG Analytics Tool.pdb
+C:\Users\saahiti\source\repos\BMG Analytics Tool\BMG Analytics Tool\obj\Debug\net8.0\BMG Analytics Tool.genruntimeconfig.cache
+C:\Users\saahiti\source\repos\BMG Analytics Tool\BMG Analytics Tool\obj\Debug\net8.0\ref\BMG Analytics Tool.dll
